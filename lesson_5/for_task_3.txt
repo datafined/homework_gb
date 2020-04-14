@@ -1,0 +1,10 @@
+Ivanov 5000
+Petrov 20000
+Sidorov 23000
+Yshakov 12000
+Yakunin 67894
+Semenov 99012
+Pavlov 33999
+Potapov 45900
+Kabanov 33879
+Sokolova 65700
